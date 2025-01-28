@@ -1,6 +1,6 @@
 # Task_1
 # Student Performance Analysis and Visualization
-# Features
+## Features
 ## Data Collection and Storage
 Simulate or use a CSV file containing:
 Student Name and ID
@@ -37,7 +37,7 @@ Integration with databases for better data handling.
 Advanced visualizations using libraries like Seaborn.
 Deployment as a web-based application.
 
-# Auther
+### Author
 Synthia
 CEP,SUST
  
